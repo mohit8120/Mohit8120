@@ -1,9 +1,8 @@
-• 👋 Hi, I’m @Mohitjain
 
-• 👀 I’m interested in learning new things...
 
-• 🌱 I’m currently learning .machine learning.
 
-• 💞️ I’m looking to collaborate on ...
-
-• 📫 How to reach me ..dm me.
+• Hi, I’m @Mohitjain
+• Always learning and exploring new things, especially in the field of machine learning.
+• Currently diving deep into the world of machine learning.
+• Eager to collaborate on projects and learn from others.
+• DM to connect! ✨
